@@ -1,0 +1,21 @@
+name: Naturaldisater
+version: '1.0-SNAPSHOT'
+main: me.naturaldisater.Naturaldisater
+authors: [ KIM ]
+description: Natural Disater
+commands:
+  fire:
+    description: Axit
+    usage: /fire
+    permission: Natural.fire
+    permission-message: U don't have permission
+  axit:
+    description: Axit
+    usage: /axit
+    permission: Natural.axit
+    permission-message: U don't have permission
+permissions:
+  Natural.fire:
+    default: op
+  Natural.axit:
+    default: op

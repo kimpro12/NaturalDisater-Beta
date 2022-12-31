@@ -1,0 +1,22 @@
+#Message when people go to the water and they die
+Message-Water: "Don't go to the water"
+#1 second = 20
+TimeFire: 1280
+TimeAxit: 1280
+#Teleport to this map from lobby
+AxitMap:
+  x: 100
+  y: 100
+  z: 100
+GhastMap:
+  x: 100
+  y: 100
+  z: 100
+FireMap:
+  x: 100
+  y: 100
+  z: 100
+WitherMap:
+  x: 100
+  y: 100
+  z: 100
